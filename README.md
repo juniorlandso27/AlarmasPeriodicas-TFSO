@@ -105,3 +105,6 @@ git log --format="%h %an - %s"
 - [Repositorio original de xv6-riscv del MIT](https://github.com/mit-pdos/xv6-riscv)
 - [Laboratorio Traps del MIT](https://pdos.csail.mit.edu/6.1810/2024/labs/traps.html)
 - [Manual de Linux sobre setitimer()](https://man7.org/linux/man-pages/man2/setitimer.2.html)
+## Publicación en LinkedIn
+- [Ver publicación del proyecto en LinkedIn](https://www.linkedin.com/posts/jhon-elvis-curi-sanchez-062a1b451_sistemasoperativos-xv6-github-activity-7531005431633063937-T8g0)
+
